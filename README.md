@@ -5,10 +5,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-jnavarro@kloverdevs.cl-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jnavarro@kloverdevs.cl)](mailto:jnavarro@kloverdevs.cl)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/pseudo-r) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/pseudo-r)
 
-- 🔭 I’m currently working on **Samba web management tool (SWAT)**
-- 🌱 I’m currently learning **Django, Drupal, Sitefinity and, Salesforce**
+- 🔭 I’m currently working on **Samba web management tool (SWAT), Find a house (webtool), Find a job (webtool), Sport API**
+- 🌱 I’m currently learning **AI integration, data analyst, Security research**
 - 💬 Ask me about **Python, selenium, automation**
-- 📄 Know about my experiences [https://www.linkedin.com/in/jose-navarro-espinoza/](https://www.linkedin.com/in/jose-navarro-espinoza/)
+- 📄 Know about my experiences [[https://www.linkedin.com/in/joseph-santiag-wilson/](https://www.linkedin.com/in/joseph-santiag-wilson/)]
 
 ![](https://komarev.com/ghpvc/?username=pseudo-r) [![wakatime for this page](https://wakatime.com/badge/user/c0c95904-b67a-4a62-bb09-8d5a5255068b/project/1c714a5d-d783-4d40-9897-409debbac3ab.svg)](https://wakatime.com/badge/user/c0c95904-b67a-4a62-bb09-8d5a5255068b/project/1c714a5d-d783-4d40-9897-409debbac3ab)
 
